@@ -1,6 +1,5 @@
 # pacman
-
-![PacMan](https://user-images.githubusercontent.com/73146657/141847823-f9314ea0-61c2-49bd-a4d6-9662d512abce.png)
+<img src= "https://github.com/gv68682/pacman/blob/main/Week%204%20PacMan/PacMan1.png" width="100">
 
 ## Description
 Pacman is a game character which is used in this project to simply move back and forth between   the window boundaries with some facial expressions. 
