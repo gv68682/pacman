@@ -1,5 +1,5 @@
 # pacman
-![Pacman!](Week 4 PacMan/PacMan1.png)
+![Pacman!] (Week 4 PacMan\PacMan1.png)
 
 ## Description
 Pacman is a game character which is used in this project to simply move back and forth between   the window boundaries with some facial expressions. 
