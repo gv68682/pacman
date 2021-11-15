@@ -1,4 +1,4 @@
-# pacman
+# Pacman
 <img src= "https://github.com/gv68682/pacman/blob/main/Week%204%20PacMan/PacMan1.png" width="100">
 
 ## Description
